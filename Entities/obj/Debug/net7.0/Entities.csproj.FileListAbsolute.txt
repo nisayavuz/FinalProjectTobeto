@@ -1,0 +1,11 @@
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\bin\Debug\net7.0\Entities.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\ref\Entities.dll

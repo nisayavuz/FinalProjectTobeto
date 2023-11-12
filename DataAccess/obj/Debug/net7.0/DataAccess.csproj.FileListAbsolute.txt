@@ -1,0 +1,15 @@
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll

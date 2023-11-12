@@ -1,0 +1,17 @@
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\bin\Debug\net7.0\Business.deps.json
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\bin\Debug\net7.0\Business.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\bin\Debug\net7.0\Business.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\bin\Debug\net7.0\DataAccess.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\bin\Debug\net7.0\Entities.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\bin\Debug\net7.0\DataAccess.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\bin\Debug\net7.0\Entities.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\refint\Business.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\ref\Business.dll
