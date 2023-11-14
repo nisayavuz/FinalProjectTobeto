@@ -39,6 +39,8 @@ namespace DataAccess.Concrete.EntityFramework
         public void Update(Category entity)
         {
             throw new NotImplementedException();
+
+
         }
     }
 }

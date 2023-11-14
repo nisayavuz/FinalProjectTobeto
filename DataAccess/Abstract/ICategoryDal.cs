@@ -7,14 +7,10 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    public interface ICategoryDal
+    public interface ICategoryDal : IEntityRepository<Category>
     {
-        List<Product> GetAll();
 
-        void Add(Product product);
-        void Update(Product product);
-        void Delete(Product product);
 
-        List<Product> GetAllByCategory(int categoryId); // ürünleri kategoriye göre listele
+       
     }
 }
