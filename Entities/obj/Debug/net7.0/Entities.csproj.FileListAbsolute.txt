@@ -9,3 +9,7 @@ C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.d
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\refint\Entities.dll
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.pdb
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\bin\Debug\net7.0\Core.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\bin\Debug\net7.0\Core.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Entities\obj\Debug\net7.0\Entities.csproj.CopyComplete

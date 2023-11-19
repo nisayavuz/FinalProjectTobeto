@@ -15,3 +15,5 @@ C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.d
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\refint\Business.dll
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\Business.pdb
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\obj\Debug\net7.0\ref\Business.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\bin\Debug\net7.0\Core.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Business\bin\Debug\net7.0\Core.pdb

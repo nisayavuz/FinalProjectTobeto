@@ -1,0 +1,12 @@
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\bin\Debug\net7.0\Core.deps.json
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\bin\Debug\net7.0\Core.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\bin\Debug\net7.0\Core.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\obj\Debug\net7.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\obj\Debug\net7.0\Core.AssemblyInfoInputs.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\obj\Debug\net7.0\Core.AssemblyInfo.cs
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\obj\Debug\net7.0\Core.csproj.CoreCompileInputs.cache
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\obj\Debug\net7.0\Core.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\obj\Debug\net7.0\refint\Core.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\obj\Debug\net7.0\Core.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\obj\Debug\net7.0\ref\Core.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\Core\obj\Debug\net7.0\Core.csproj.AssemblyReference.cache

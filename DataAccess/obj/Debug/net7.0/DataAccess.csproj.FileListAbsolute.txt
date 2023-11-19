@@ -13,3 +13,5 @@ C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAcce
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\bin\Debug\net7.0\Core.dll
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\DataAccess\bin\Debug\net7.0\Core.pdb
