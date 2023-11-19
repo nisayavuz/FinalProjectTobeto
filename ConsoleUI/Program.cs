@@ -1,6 +1,7 @@
 ﻿using Business.Concrete;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
+using Microsoft.EntityFrameworkCore.Internal;
 
 namespace ConsoleUI
 {
@@ -13,7 +14,7 @@ namespace ConsoleUI
             //CategoryTest();
 
             // DTO : Data Transformation Object
-
+            
         }
 
         private static void CategoryTest()

@@ -1,0 +1,367 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\WebAPI\\WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Business\\Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\nsnry\\.nuget\\packages\\",
+        "outputPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nsnry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\nsnry\\.nuget\\packages\\",
+        "outputPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nsnry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\nsnry\\.nuget\\packages\\",
+        "outputPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nsnry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\Core.csproj"
+              },
+              "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[7.0.6, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\nsnry\\.nuget\\packages\\",
+        "outputPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nsnry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\WebAPI\\WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\WebAPI\\WebAPI.csproj",
+        "projectName": "WebAPI",
+        "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\nsnry\\.nuget\\packages\\",
+        "outputPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nsnry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Business\\Business.csproj"
+              },
+              "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Core\\Core.csproj"
+              },
+              "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
