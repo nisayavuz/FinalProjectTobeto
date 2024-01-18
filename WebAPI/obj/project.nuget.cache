@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "offLpSRFrGcU1U/Py25RPjQECbyQLTU5PdD4ajssN8x5LYbjvmzQ6IlS4scEZMMu+K3WFmy/VzDERDy1fDuCDA==",
+  "dgSpecHash": "aHz93B+ybvDma5ybzCa+NhVVFRgXAkL1mHgdZIFSt0o4Npp2U/Yznf644cqzYe0kPmdee8Q3Ei9+spODAtWOkQ==",
   "success": true,
   "projectFilePath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nsnry\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\nsnry\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\nsnry\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\nsnry\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",

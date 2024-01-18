@@ -71,3 +71,4 @@ C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\ConsoleUI\bin\Debug\net7.0\Npgsql.dl
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\ConsoleUI\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\ConsoleUI\bin\Debug\net7.0\Core.dll
 C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\ConsoleUI\bin\Debug\net7.0\Core.pdb
+C:\Tobeto\1A\OOP-Ödev_Gün7\MyFinalProject\ConsoleUI\bin\Debug\net7.0\Autofac.dll

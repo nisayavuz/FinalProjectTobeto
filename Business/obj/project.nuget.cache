@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lss8j/a6DHGq9tPNwe2L3fjpf+SqYjCM0ysdxJW/JvGOjIVqc+5L+hvNBS0tZhDvG1aZXk0qdOC11tQzYymbVA==",
+  "dgSpecHash": "xKdzogHlrXVgNAhbxhYRXl6AJU6Hg7SVwtq/B3YBc4YdR5EG4Rhk3vL9CsAr7lvZyLw4ewOY74QMw+jnoE4F6A==",
   "success": true,
   "projectFilePath": "C:\\Tobeto\\1A\\OOP-Ödev_Gün7\\MyFinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\nsnry\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\nsnry\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\nsnry\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\nsnry\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
